@@ -1,5 +1,5 @@
 # DynamicArray
-/**Problem statement*/
+Problem statement
 - Create a 2-dimensional array, , of  empty arrays. All arrays are zero indexed.
 - Create an integer, , and initialize it to .
 - There are  types of queries:
